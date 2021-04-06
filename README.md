@@ -1,6 +1,6 @@
 # sqlalchemy-challenge
 
-## For an upcoming vacation to Honolulu, Hawaii, we are analyzing climate patterns to determine the best time to plan our trip. 
+### For an upcoming vacation to Honolulu, Hawaii, we are analyzing climate patterns to determine the best time to plan our trip. 
 
 ### As part of the Analysis, the following steps were completed:
 * Query the most recent 12 months of precipitation data from hawaii.sqlite file.
